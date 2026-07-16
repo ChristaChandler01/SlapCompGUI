@@ -1,5 +1,9 @@
-# This is my first repo. I am working on a more organized layout now.
-# There will be a better version of this repo in that future repository soon.
+# This is my first repo. I was just very excited to share this huge project with you as soon as possible, for demo purposes.
+
+Now that I have a better understanding of how GitHub works, and I anticipate adding more tools soon, I have created an repo for all my Animation and VFX tools: https://github.com/ChristaChandler01/Animation_VFX
+
+The SlapCompGUI can be found within that repo at this location: https://github.com/ChristaChandler01/Animation_VFX/tree/main/Python/PipelineTools/SlapCompGUI
+
 # SlapCompGUI
 A GUI for Maya that allows the user to choose render paths, Nuke path, AOVs, grade and glow nodes to generate a Nuke script with AOV passes and render CG over a background as a slap comp.
 
