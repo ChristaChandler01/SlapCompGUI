@@ -1,6 +1,6 @@
 # This is my first repo. I was just very excited to share this huge project with you as soon as possible, for demo purposes.
 
-Now that I have a better understanding of how GitHub works, and I anticipate adding more tools soon, I have created an repo for all my Animation and VFX tools: https://github.com/ChristaChandler01/Animation_VFX
+Now that I have a better understanding of how GitHub works, and I anticipate adding more tools soon, I have created a repo for all of my Animation and VFX tools: https://github.com/ChristaChandler01/Animation_VFX
 
 The SlapCompGUI can be found within that repo at this location: https://github.com/ChristaChandler01/Animation_VFX/tree/main/Python/PipelineTools/SlapCompGUI
 
